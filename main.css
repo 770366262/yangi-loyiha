@@ -1,0 +1,839 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 1440px;
+    height: 7552px;
+    margin: 0 auto;
+}
+
+.container nav {
+    width: 1440px;
+    height: 94px;
+    background-color: ;
+    display: flex;
+    justify-content: flex-start;
+    align-items: start;
+}
+
+nav img {
+    width: 124px;
+    height: 24px;
+    padding-top: 28px;
+    padding-left: 42px;
+}
+
+nav ul {
+    width: 834px;
+    height: 46px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 24px;
+    padding-left: 137px;
+    list-style: none;
+}
+
+nav ul li {
+    color: rgb(20, 20, 20);
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.btns {
+    width: 257px;
+    height: 54px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.btns .btn1 {
+    width: 94px;
+    height: 54px;
+    box-sizing: border-box;
+    border: 2px solid rgb(248, 244, 244);
+    border-radius: 8px;
+    background-color: #fff;
+    color: rgb(51, 51, 51);
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.btns .btn2 {
+    width: 153px;
+    height: 54px;
+    border-radius: 8px;
+    border: none;
+    background: rgb(0, 153, 255);
+}
+
+.main {
+    width: 1240px;
+    height: 425px;
+    background-color: #fff;
+    margin: 15px auto;
+}
+
+.main h1 {
+    color: rgb(14, 22, 0.95);
+    font-family: Roboto;
+    font-size: 90px;
+    font-weight: 400;
+    line-height: 110px;
+    letter-spacing: 2px;
+    text-align: center;
+    width: 839px;
+    height: x;
+    margin: 0 auto;
+    padding-top: px;
+}
+
+.main p {
+    color: rgb(53, 57, 63);
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 36.4px;
+    letter-spacing: 0%;
+    text-align: center;
+    width: 509px;
+
+    padding-top: 53px;
+    margin: 0 auto;
+
+}
+
+.img2 {
+    width: 1180px;
+    height: 178px;
+    margin-left: 142px;
+}
+
+.how {
+    width: 860px;
+    height: 691.89px;
+    margin: 120px auto;
+}
+
+.how h3 {
+    color: rgb(0, 0, 0);
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+
+.how img {
+    width: 860px;
+    height: 486px;
+    margin-top: 45px;
+}
+
+.hire {
+    width: 1160px;
+    height: 526.3px;
+
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hire_left {
+    width: 483.33px;
+    height: 509px;
+
+}
+
+.hire_right {
+    width: 676.66px;
+    height: 456.3px;
+}
+
+.hire_right img {
+    width: 676.66px;
+    height: 456.3px;
+}
+
+.hire_left span {
+    color: rgb(12, 159, 100);
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.hire_left h2 {
+    width: 369px;
+    color: rgba(14, 16, 22, 0.95);
+    font-family: Roboto;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 63.8px;
+    letter-spacing: 1.5px;
+    text-align: left;
+    padding-top: 15px;
+}
+
+.hire_left p {
+    width: 392px;
+    color: rgba(14, 16, 22, 0.95);
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 30.8px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-top: 24px;
+}
+
+.hire_left button {
+    width: 136px;
+    height: 54px;
+    box-sizing: border-box;
+    border: 2px solid rgb(248, 244, 244);
+    border-radius: 8px;
+    margin-top: 26px;
+    cursor: pointer;
+
+}
+
+.ttt {
+    width: 1160px;
+    height: 546.3px;
+    margin: 0 auto;
+    margin-top: 70px;
+    padding-top: 50px;
+    display: flex;
+}
+
+.ttt_left {
+    width: 677px;
+    height: 402px;
+}
+
+.img3 {
+    width: 677px;
+    height: 502px;
+    margin: 0 auto;
+}
+
+.ttt_right {
+    width: 483.33px;
+    height: 509px;
+    gap: 20px;
+    padding-left: 30px;
+}
+
+.ttt_right span {
+    width: 101px;
+    height: 36px;
+    padding-top: 38.81px;
+    color: rgb(254, 193, 4);
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.ttt_right h2 {
+    width: 420px;
+    height: 192px;
+    color: rgba(14, 16, 22, 0.95);
+    font-family: Roboto;
+    font-size: 57px;
+    font-weight: 700;
+    line-height: 63.8px;
+    letter-spacing: 1.5px;
+    text-align: left;
+    padding-top: 10px;
+}
+
+.ttt_right p {
+    width: 400px;
+    height: 93px;
+    color: rgba(14, 16, 22, 0.95);
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 30.8px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.ttt_right button {
+    width: 96px;
+    height: 20px;
+    color: rgb(51, 51, 51);
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    border-radius: 10px;
+    letter-spacing: 0%;
+    text-align: left;
+    width: 136px;
+    height: 54px;
+    text-align: center;
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.kotta {
+    width: 1240px;
+    height: 1107px;
+    border-radius: 20px;
+    margin: 0 auto;
+    background: rgb(32, 46, 120);
+    padding-top: 30px;
+    margin-top: 40px;
+}
+
+.tepa {
+    width: 719px;
+    height: 417px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.tepa img {
+    width: 80px;
+    height: 80px;
+}
+
+.tepa h2 {
+    width: 376px;
+    height: 64px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 63.8px;
+    letter-spacing: 1.5px;
+    padding-left: 183px;
+    padding-top: 10px;
+
+}
+
+.tepa p {
+    width: 719px;
+    height: 90px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 30.8px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.tepa button {
+    width: 213px;
+    height: 54px;
+    color: rgb(244, 246, 248);
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+    border-radius: 12px;
+    background-color: rgb(32, 46, 120);
+    border-color: #fff;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.pas {
+    width: 1200px;
+    height: 520px;
+    background: rgb(0, 6, 57);
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+}
+
+.pas img {
+    width: 580px;
+    height: 520px;
+    border-radius: 10px;
+}
+
+.nnn_right {
+    width: 580px;
+    height: 520px;
+    border-radius: 14px;
+
+
+}
+
+.nnn_right img {
+    width: 129px;
+    height: 24px;
+    padding-top: 40px;
+
+}
+
+.box {
+    width: 500px;
+    height: 289px;
+}
+
+.box h2 {
+    width: 470px;
+    height: 144px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-top: 20px;
+}
+
+.box p {
+    width: 500px;
+    height: 61px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 30.8px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-top: 30px;
+}
+
+.box button {
+    width: 212px;
+    height: 54px;
+    box-sizing: border-box;
+    border: 2px solid rgb(248, 244, 244);
+    border-radius: 8px;
+    background-color: rgb(0, 6, 57);
+    color: #fff;
+    margin-top: 70px;
+    cursor: pointer;
+
+}
+
+.kotta1 {
+    width: 1240px;
+    height: 974px;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 60px;
+    border-radius: 14px;
+    padding-top: 50px;
+}
+
+.orta1 {
+    width: 666.5px;
+    height: 409px;
+    margin: 0 auto;
+
+
+}
+
+.orta1 .button1 {
+    width: 63px;
+    height: 32px;
+    border-radius: 20px;
+    margin-left: 320px;
+    background: rgb(246, 71, 117);
+    cursor: pointer;
+}
+
+.orta1 h4 {
+    width: 728px;
+    height: 64px;
+    color: rgb(255, 255, 255);
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 63.8px;
+    letter-spacing: 1.5px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.orta1 p {
+    width: 741px;
+    height: 90px;
+    color: rgb(244, 243, 243);
+    font-family: Roboto;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 30.8px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 80px;
+}
+
+.orta1 .button2 {
+    width: 212px;
+    height: 51px;
+    border-radius: 8px;
+    margin-left: 250px;
+    background: rgb(0, 153, 255);
+    cursor: pointer;
+}
+
+.pass1 {
+    width: 1191px;
+    height: 465px;
+    background: url(image\ copy\ 9.png);
+    background-size: cover;
+}
+.kotta2{
+    width: 1240px;
+height: 504px;
+margin: 0 auto;
+margin-top: 40px;
+display: flex;
+}
+.www_left{
+    width: 620px;
+height: 401px;
+
+}
+.www_left .img1{
+    width: 157px;
+height: 34px;
+padding-left: 232px;
+padding-top: 50px;
+}
+.www_left h2{
+    width: 124px;
+height: 400 px;
+color: rgba(14, 16, 22, 0.95);
+font-family: Roboto;
+font-size: 82px;
+font-weight: 700;
+line-height: 114.8px;
+letter-spacing: 0%;
+text-align: center;
+margin: 0 auto;
+padding-top: 20px;
+}
+.www_left .img2{
+    width: 285px;
+height: 47px;
+padding-left: 25px;
+padding-top: 30px;
+}
+.www_left p{
+    width: 254px;
+height: 28px;
+color: rgba(14, 16, 22, 0.95);
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+margin: 0 auto;
+padding-top: 20px;
+}
+.www_right{
+    width: 620px;
+height: 404px;
+}
+.www_right .img3{
+    width: 160px;
+height: 44px;
+padding-left: 232px;
+padding-top: 50px;
+}
+.www_right h2{
+    width: 254px;
+height: 115px;
+color: rgba(14, 16, 22, 0.95);
+font-family: Roboto;
+font-size: 82px;
+font-weight: 700;
+line-height: 114.8px;
+letter-spacing: 0%;
+text-align: center;
+padding-left: 183px;
+padding-top: 20px;
+}
+.www_right .img4{
+    width: 115px;
+height: 60px;
+color: rgba(14, 16, 22, 0.95);
+font-family: Roboto;
+font-size: 50px;
+font-weight: 400;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: center;
+padding-left: 253px;
+padding-top: 20px;
+}
+.www_right p{
+    width: 263px;
+height: 28px;
+color: rgba(14, 16, 22, 0.95);
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: center;
+padding-left: 179px;
+padding-top: 20px;
+}
+.kotta3{
+    width: 1240px;
+height: 601px;
+border-radius: 20px;
+background: rgb(60, 169, 255);
+margin: 0 auto;
+padding-top: 70px;
+
+}
+.orta5{
+    width: 538.5px;
+height: 491px; 
+margin: 0 auto;
+
+}
+.orta5 img{
+    width: 200px;
+height: 200px;
+padding-left: 169.28px;
+}
+.orta5 h2{
+    width: 556px;
+height: 64px;
+color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 58px;
+font-weight: 700;
+line-height: 63.8px;
+letter-spacing: 1.5px;
+text-align: center;
+padding-top: 10px;
+}
+.orta5 button{
+    width: 153px;
+    height: 51px;
+    border-radius: 8px;
+    color: #fff;
+background: rgb(14, 16, 22);
+margin-top: 80px;
+margin-left: 195px;
+cursor: pointer;
+}
+.kotta4{
+    width: 1240px;
+height: 560px;
+border-radius: 20px;
+margin: 0 auto;
+margin-top: 100px;
+background: rgba(0, 0, 0, 0.95);
+padding-left: 40px;
+padding-top: 40px;
+display: flex;
+}
+.bir {
+    width: 222.39px;
+    height: 480px;
+
+}
+.bir h4{
+    width: 222.39px;
+height: 48px;
+color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+line-height: 25.2px;
+letter-spacing: 0%;
+text-align: left;
+}
+.ikki{
+    width: 333.59px;
+height: 480px;
+
+}
+.ikki h3{
+width: 48px;
+height: 24px;
+color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.bir p{
+    width: 222.39px;
+height: 40px;
+color: rgb(119, 130, 145);
+font-family: Roboto;
+font-size: 17px;
+font-weight: 400;
+line-height: 25.2px;
+letter-spacing: 0%;
+text-align: left;
+}
+.bir .tt{
+    color: rgb(254, 193, 4);
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25.2px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.bir .rr{
+    color: rgb(12, 159, 100);
+font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+line-height: 25.2px;
+letter-spacing: 0%;
+text-align: left;
+}
+.ikki p{
+    width: 155px;
+height: 50px;
+color: rgb(119, 130, 145);
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 25.2px;
+letter-spacing: 0%;
+text-align: left;
+padding-top: 10px;
+}
+.uch{
+    width: 222.39px;
+height: 480px;
+
+}
+.uch .uu{
+    width: 136px;
+    height: 44px;
+    color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.uch .nn{
+    width: 75px;
+height: 24px;
+color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.uch p{
+    width: 73px;
+    height: 59px;
+    color: rgb(119, 130, 145);
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 25.2px;
+letter-spacing: 0%;
+text-align: left;
+}
+.yakun{
+    width: 333.59px;
+height: 480px;
+}
+.yakun h1{
+    width: 195px;
+height: 24px;
+color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left; 
+}
+.yakun p{
+    width: 307px;
+height: 84px;
+color: rgb(119, 130, 145);
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: left;
+padding-top: 15.52px;
+}
+.yakun h6{
+    width: 227px;
+height: 28px;
+color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: left;
+padding-top: 30px;
+}
+.opp{
+    width: 500px;
+    height: 40px;
+    display: flex;
+    padding-top: 20px;
+}
+.opp .dff_left{
+    width: 256px;
+height: 40px;
+border-radius: 8px 0px 0px 8px;
+
+background: rgba(119, 130, 145, 0.3);
+}
+.opp .dff_right{
+    width: 78px;
+height: 40px;
+border-radius: 0px 8px 8px 0px;
+
+background: rgb(89, 93, 104);
+}
+.yakun img{
+    width: 333.59px;
+height: 50px;
+padding-top: 20px;
+}
